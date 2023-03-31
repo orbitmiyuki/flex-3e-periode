@@ -1,0 +1,15 @@
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.exe
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.deps.json
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.runtimeconfig.json
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.dll
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.pdb
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.AssemblyReference.cache
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfoInputs.cache
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfo.cs
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.dll
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\refint\PropertyOpdracht3.dll
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.pdb
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.genruntimeconfig.cache
+C:\Users\Student.LT20247.004\Downloads\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\ref\PropertyOpdracht3.dll
